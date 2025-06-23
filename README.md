@@ -32,6 +32,6 @@
 ---
 
 ## 📬 Reach Me
-- 📧 abhinash@example.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 abhinashkota@gamil.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kota-abhinash/)
 
