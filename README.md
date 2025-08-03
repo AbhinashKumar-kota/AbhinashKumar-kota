@@ -27,7 +27,7 @@
 ## 🛠️ Currently Working On
 - Adaptive SMC and actuator modeling
 - Drone project journal in Google Docs
-- GATE ECE 2026 prep
+- GATE EE 2026 prep
 
 ---
 
