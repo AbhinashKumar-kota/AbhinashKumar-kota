@@ -23,10 +23,10 @@ That gap — between what works in the lab and what ships in the world — is th
 ### Multi-Agent UAV Formation Control
 Decentralized consensus-based controller for drone formation tracking using Crazyflie UAVs. Validated in PyBullet simulation before deploying on physical hardware in GPS-denied conditions. Achieved stable coordination using onboard sensing only — no oscillations, no central planner.
 
-### Fault-Tolerant UUV Control &nbsp;·&nbsp; [→ Repo](https://github.com/AbhinashKumar-kota)
+### Fault-Tolerant UUV Control &nbsp;·&nbsp; [→ Repo](https://github.com/AbhinashKumar-kota/Passive-Fault-Tolerant-Control-UUV)
 Fast Terminal Sliding Mode Control (FTSMC) for an Underwater Unmanned Vehicle under 50–100% actuator faults. The system maintained trajectory tracking where a baseline PID controller crashed. Fault recovery without manual intervention.
 
-### Bio-Inspired Swarm Coordination (BMO Framework) &nbsp;·&nbsp; [→ Repo](https://github.com/AbhinashKumar-kota)
+### Bio-Inspired Swarm Coordination (BMO Framework) &nbsp;·&nbsp; [→ Repo](https://github.com/AbhinashKumar-kota/bmo_ws)
 Decentralized multi-agent coordination framework using bio-inspired optimization. Collision-free behavior across agents using only local rules — no global planner required.
 
 ### ArUco Marker-Based Robot Navigation
